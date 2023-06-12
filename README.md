@@ -1,10 +1,10 @@
 # movies-rating-service
 
-This is simple service responsible for fetching movies rating
+This is simple service responsible for fetching movie's data for [Movies Rating Application](https://moviesratingapp.netlify.app/).
 
 ## How to run (Java 11)
 
-To start this service you need to go to the project directory and run:
+To start this service locally you need to go to the project directory and run:
 
 ### `./mvnw spring-boot:run`
 
